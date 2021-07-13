@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jessie
-- 👀 I’m interested in ...
+- 👀 I’m interested in software development and hard problems
 - 🌱 I’m currently learning machine learning and AI
 - 💞️ I’m looking to collaborate on casino and sports betting machine learning models
 - 📫 You can reach me through github
